@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Alegreya&display=swap');
+
+.app {
+  text-align: center;
+  background-color: #EBC328;
+  background: linear-gradient(90deg, #E19A12 0%, #EEC61E 100%);
+  box-sizing: border-box;
+  padding-top: 140px;
+}
+
+.app-header {
+  padding: 0 166px;
+}
+
+h1, h2, h3, p {
+  color: #FCEDC2;
+}
+
+main {
+  background: linear-gradient(90deg, #453D2D 0%, #2E261D 100%);
+}
+
+main > .mid-section {
+  padding: 80px 166px;
+}
+
+footer {
+  padding: 40px;
+  background: rgba(0,0,0,0.4);
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
