@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/woehr-associates/static/css/main.fa0ff393.css",
-    "main.js": "/woehr-associates/static/js/main.bf6dd6bc.js",
-    "static/js/787.f9696162.chunk.js": "/woehr-associates/static/js/787.f9696162.chunk.js",
-    "static/media/BG_2.png": "/woehr-associates/static/media/BG_2.a7386969d5f8d7552d98.png",
-    "static/media/BG.png": "/woehr-associates/static/media/BG.19b567223d1784d6ef14.png",
-    "index.html": "/woehr-associates/index.html",
-    "static/media/logo.svg": "/woehr-associates/static/media/logo.fc2dcc637c15f2e6f2442b0403953e44.svg",
-    "main.fa0ff393.css.map": "/woehr-associates/static/css/main.fa0ff393.css.map",
-    "main.bf6dd6bc.js.map": "/woehr-associates/static/js/main.bf6dd6bc.js.map",
-    "787.f9696162.chunk.js.map": "/woehr-associates/static/js/787.f9696162.chunk.js.map"
+    "main.css": "/static/css/main.673fc001.css",
+    "main.js": "/static/js/main.1c86bb0c.js",
+    "static/js/787.f9696162.chunk.js": "/static/js/787.f9696162.chunk.js",
+    "static/media/BG_2.png": "/static/media/BG_2.a7386969d5f8d7552d98.png",
+    "static/media/BG.png": "/static/media/BG.19b567223d1784d6ef14.png",
+    "index.html": "/index.html",
+    "static/media/logo.svg": "/static/media/logo.fc2dcc637c15f2e6f2442b0403953e44.svg",
+    "main.673fc001.css.map": "/static/css/main.673fc001.css.map",
+    "main.1c86bb0c.js.map": "/static/js/main.1c86bb0c.js.map",
+    "787.f9696162.chunk.js.map": "/static/js/787.f9696162.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.fa0ff393.css",
-    "static/js/main.bf6dd6bc.js"
+    "static/css/main.673fc001.css",
+    "static/js/main.1c86bb0c.js"
   ]
 }
